@@ -41,8 +41,8 @@ def main():
     # set in debug
     api_id = 19811436
     api_hash = 'c38c42f5cf7eda2c68444fd877e20300'
-    bot_token = '5471631481:AAEjvJ9iMRrFnU9rxfyi4PbcZHoG789idZw'
-    tl_admin_user = 'Shadowalh'
+    bot_token = '5571367573:AAEPmfnkMbfGHD2_YQmctKuUlLWFQYlvFFI'
+    tl_admin_user = 'toni8790'
     # end
 
     #create dispatcher and regs
